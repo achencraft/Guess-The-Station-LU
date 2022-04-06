@@ -1,0 +1,124 @@
+[
+        {
+         "StopPointRef":"LUXEX",
+         "StopName":"Luxexpo",
+         "Etape":"A",
+         "Latitude":49.6356579,
+         "Longitude":6.1761135,
+         "Lines": ["6", "7","16","21","25"]
+        },
+        {
+         "StopPointRef":"ALWEI",
+         "StopName":"Alphonse Weicker",
+         "Etape":"A",
+         "Latitude":49.6322218,
+         "Longitude":6.1709006,
+         "Lines": ["12","21"]
+        },
+        {
+         "StopPointRef":"BINAT",
+         "StopName":"National Bibliothéik - Bibliothèque nationale",
+         "Etape":"A",
+         "Latitude":49.6292679,
+         "Longitude":6.1660612,
+         "Lines": []
+        },
+        {
+         "StopPointRef":"UNIVE",
+         "StopName":"Universitéit",
+         "Etape":"A",
+         "Latitude":49.6259803,
+         "Longitude":6.1607008,
+         "Lines": []
+        },
+        {
+         "StopPointRef":"COQUE",
+         "StopName":"Coque",
+         "Etape":"A",
+         "Latitude":49.6228024,
+         "Longitude":6.1543179,
+         "Lines": []
+        },
+        {
+         "StopPointRef":"PAEUR",
+         "StopName":"Europaparlement - Parlement Européen",
+         "Etape":"A",
+         "Latitude":49.6207125,
+         "Longitude":6.1479597,
+         "Lines": []
+        },
+        {
+         "StopPointRef":"PHMUD",
+         "StopName":"Philarmonie - MUDAM",
+         "Etape":"A",
+         "Latitude":49.6194579,
+         "Longitude":6.1417081,
+         "Lines": ["12", "32"]
+        },
+        {
+         "StopPointRef":"ROBRE",
+         "StopName":"Rout bréck - Paffendall",
+         "Etape":"A",
+         "Latitude":49.6186611,
+         "Longitude":6.1364731,
+         "Lines": ["6","12","16","18","21","32"]
+        },
+        {
+         "StopPointRef":"THEAT",
+         "StopName":"Theater",
+         "Etape":"A",
+         "Latitude":49.6175520,
+         "Longitude":6.1253842,
+         "Lines": ["2","3","4","19"]
+        },
+        {
+         "StopPointRef":"FAIEN",
+         "StopName":"Faïencerie",
+         "Etape":"A",
+         "Latitude":49.6162091,
+         "Longitude":6.1215151,
+         "Lines": ["8","30"]
+        },
+        {
+         "StopPointRef":"ETOIL",
+         "StopName":"Stareplaz - Etoile",
+         "Etape":"A",
+         "Latitude":49.6136332,
+         "Longitude":6.1196476,
+         "Lines": ["8","11","A","16","21","22","31"]
+        },
+        {
+         "StopPointRef":"HAMIL",
+         "StopName":"Hamilius",
+         "Etape":"B",
+         "Latitude":49.6113356,
+         "Longitude":6.1261406,
+         "Lines": ["2-6","8-19","21-22","31"]
+        },
+        {
+         "StopPointRef":"PLMET",
+         "StopName":"Place de Metz",
+         "Etape":"B",
+         "Latitude":49.6068675,
+         "Longitude":6.1283702,
+         "Lines": []
+        },
+        {
+         "StopPointRef":"PLPAR",
+         "StopName":"Paräiser Plaz - Place de Paris",
+         "Etape":"B",
+         "Latitude":49.6038726,
+         "Longitude":6.1308854,
+         "Lines": []
+        },
+        {
+         "StopPointRef":"GACEN",
+         "StopName":"Gare Centrale",
+         "Etape":"B",
+         "Latitude":49.5995984,
+         "Longitude":6.1332960,
+         "Lines": ["4","7","10","13","14","18-20","23","27-29"]
+        }
+        
+        
+    ]
